@@ -2,6 +2,8 @@
 Imports the data from a file and uses a regular expression to pick out the characters and output them. 
 
 Side note: I'm aware I over commented the fuck out of this
+
+For those keen enough to notice from the previous scripts doc: Yes I did just build off the last one
 """
 
 import re   #Imports the required regular expression module
