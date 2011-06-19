@@ -2,6 +2,8 @@
 
 """
 Challenge 6 script. Same as challenge 4, only with a zip file and not a url. 
+
+Pay attention to the initial output from the comment join. 
 """
 
 import zipfile
